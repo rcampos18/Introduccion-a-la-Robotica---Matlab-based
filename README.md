@@ -28,7 +28,7 @@ gh repo clone rcampos18/Introduccion-a-la-Robotica---Matlab-based
 # Uso
 [(Back to top)](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#tabla-de-contenidos)
 
-Para hacer uso de este es necesario descargar/clonar el [github RVC3-MATLAB](https://github.com/petercorke/RVC3-MATLAB)
-
-Cada clase contiene los datos y ejercicios realizados en clase, con anotaciones de las ideas o funcionamiento
-
+- Para hacer uso de este es necesario descargar/clonar el [github RVC3-MATLAB](https://github.com/petercorke/RVC3-MATLAB)
+- Cada clase contiene los datos y ejercicios realizados en clase, con anotaciones de las ideas o funcionamiento
+- Recuerde correr inicialmente el archivo [rvc3setup.prj](https://github.com/petercorke/RVC3-MATLAB/blob/main/rvc3setup.prj)
+- Utilice F9 para correr los ejercicios
