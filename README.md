@@ -12,21 +12,21 @@ Contiene las notas de las clases  del curso de introducción a la robótica impa
 
 This is a table of contents for your project. It helps the reader navigate through the README quickly.
 - [Introducción a la Robótica](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#introducci%C3%B3n-a-la-rob%C3%B3tica)
-- [Table of Contents](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#tabla-de-contenidos)
+- [Tabla de Contenidos](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#tabla-de-contenidos)
 - [Instalacion](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#instalacion)
 - [Uso](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#uso)
 
 
 
 # Instalacion
-[(Back to top)](#table-of-contents)
+[(Back to top)](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#tabla-de-contenidos)
 
 ```shell
 gh repo clone rcampos18/Introduccion-a-la-Robotica---Matlab-based
 ```
 
 # Uso
-[(Back to top)](#table-of-contents)
+[(Back to top)](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#tabla-de-contenidos)
 
 Para hacer uso de este es necesario descargar/clonar el [github RVC3-MATLAB](https://github.com/petercorke/RVC3-MATLAB)
 
