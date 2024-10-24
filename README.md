@@ -11,20 +11,19 @@ Contiene las notas de las clases  del curso de introducción a la robótica impa
 # Tabla de Contenidos
 
 This is a table of contents for your project. It helps the reader navigate through the README quickly.
-- [Introducción a la Robótica](#Introduccion-a-la-Robotica)
-- [Table of Contents](#Tabla-de-Contenidos)
-- [Instalacion](#Instalacion)
-- [Uso](#Uso)
+- [Introducción a la Robótica](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#introducci%C3%B3n-a-la-rob%C3%B3tica)
+- [Table of Contents](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#tabla-de-contenidos)
+- [Instalacion](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#instalacion)
+- [Uso](https://github.com/rcampos18/Introduccion-a-la-Robotica---Matlab-based/tree/main#uso)
+
 
 
 # Instalacion
 [(Back to top)](#table-of-contents)
 
-
 ```shell
 gh repo clone rcampos18/Introduccion-a-la-Robotica---Matlab-based
 ```
-
 
 # Uso
 [(Back to top)](#table-of-contents)
